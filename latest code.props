@@ -1,0 +1,12 @@
+
+R{"time"}min=? [ F s=destination ] *60
+
+R{"travelCost"}min=? [ F s=destination ]
+
+R{"emission"}min=? [ F s=destination ]
+
+R{"time"}min=? [ F s=destination&ccycle ]
+
+R{"time"}min=? [ F s=16 ]
+
+
